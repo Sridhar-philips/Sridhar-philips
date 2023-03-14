@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sridhar-philips
-- 👀 I’m interested in Devops SAAS
-- 🌱 I’m currently learning GH Actions Pipeline
+- 👀 I’m interested in SaaS Devops 
+- 🌱 I’m currently learning & working on Gitub Actions by writing an workflow to the Pipelines
 - 💞️ I’m looking to collaborate on CI/CD Pipeline
 - 📫 How to reach me partner.sridhar.br@philips.com / +91-9742541316
 
